@@ -1,0 +1,6 @@
+{
+  "name": "Ecotria Presidency",
+  "description": "Campus resource analytics, predictive wastage detection, and sustainability platform for Presidency University, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
